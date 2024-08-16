@@ -21,9 +21,9 @@ Ce projet vise à prévoir le trafic des passagers aériens en utilisant des tec
 - **Numpy** : Pour les calculs numériques.
 - **TensorFlow & Keras** : Pour le développement et l'entraînement des modèles LSTM et ANN.
 
-## Étapes pour Exécuter le Projet
+## Contributeurs
 
-1. **Installation des Dépendances**
-   Assurez-vous d'avoir les bibliothèques Python suivantes installées :
-   ```bash
-   pip install pandas matplotlib seaborn numpy tensorflow keras
+Merci à tous ceux qui ont contribué à ce projet !
+
+- **Kaoutar Zouguagh** - [GitHub](https://github.com/kawtarzouguagh)
+- **Wiam Terrab** - [GitHub](https://github.com/nom_utilisateur2)
