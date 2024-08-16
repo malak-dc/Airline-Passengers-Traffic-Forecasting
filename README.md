@@ -1,7 +1,3 @@
-Votre projet contient plusieurs fichiers, dont un notebook Jupyter pour la prévision du trafic des passagers aériens en utilisant les modèles ARIMA, LSTM et ANN, ainsi que divers fichiers de données et modèles. Voici un exemple de fichier README pour ce projet :
-
----
-
 # Prévision du Trafic des Passagers Aériens
 
 ## Description du Projet
@@ -31,40 +27,3 @@ Ce projet vise à prévoir le trafic des passagers aériens en utilisant des tec
    Assurez-vous d'avoir les bibliothèques Python suivantes installées :
    ```bash
    pip install pandas matplotlib seaborn numpy tensorflow keras
-   ```
-
-2. **Exploration des Données**
-   - Ouvrez le fichier `Airline Passengers Traffic Forecasting using ARIMA Model&LSTM&ANN.ipynb` dans Jupyter Notebook pour explorer les données et visualiser les résultats des modèles.
-
-3. **Exécution des Modèles**
-   - Suivez les étapes dans le notebook pour exécuter les modèles ARIMA, LSTM, et ANN sur les données de trafic des passagers aériens.
-
-4. **Évaluation des Modèles**
-   - Comparez les performances des différents modèles sur les données de test.
-
-## Structure du Projet
-
-```
-projet time series Terrab Berri Zouguagh/
-│
-└───projet ts/
-    │
-    ├───Airline Passengers Traffic Forecasting using ARIMA Model&LSTM&ANN.ipynb
-    ├───AirPassengers (1).csv
-    ├───stationary.csv
-    ├───train_data.csv
-    ├───test_data.csv
-    ├───model.pkl
-    ├───model_train.pkl
-    ├───model_bias.npy
-    ├───model_bias_train.npy
-    └───.ipynb_checkpoints/
-```
-
-## Compétences Développées
-- Prévision des séries temporelles.
-- Programmation en Python.
-- Développement de modèles de réseaux de neurones (ANN, LSTM).
-- Modélisation ARIMA.
-- Analyse et visualisation des données.
-
