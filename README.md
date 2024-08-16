@@ -8,7 +8,7 @@ Ce projet vise à prévoir le trafic des passagers aériens en utilisant des tec
 
 ### 1. Fichiers Principaux
 - **Airline Passengers Traffic Forecasting using ARIMA Model&LSTM&ANN.ipynb** : Le notebook Jupyter contenant le code pour l'analyse des données, la modélisation et la prévision du trafic des passagers aériens.
-- **AirPassengers (1).csv** : Le fichier CSV contenant les données historiques du nombre de passagers aériens.
+- **AirPassengers.csv** : Le fichier CSV contenant les données historiques du nombre de passagers aériens.
 - **stationary.csv** : Un fichier CSV contenant les données après transformation pour rendre la série temporelle stationnaire.
 - **train_data.csv** : Données d'entraînement pour les modèles.
 - **test_data.csv** : Données de test pour évaluer la performance des modèles.
